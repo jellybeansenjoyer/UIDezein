@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="names">
+        <item>YUMEKO</item>
+        <item>MARY</item>
+        <item>RUNA</item>
+        <item>MIDARI</item>
+        <item>ITSUKI</item>
+        <item>KIRARI</item>
+        <item>RIRIKA</item>
+    </string-array>
+</resources>
